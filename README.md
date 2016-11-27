@@ -1,0 +1,1 @@
+This is CrazySession's first git project!
